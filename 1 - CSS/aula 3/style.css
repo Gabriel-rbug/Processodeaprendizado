@@ -1,0 +1,16 @@
+body {
+    background-image:url(background.jpg) ;/* adicionar foto de fundo*/
+    background-repeat: no-repeat; /*dinimuir o tamanho*/
+    /**background-position: 100% 10%;*/
+    background-position: center center; /* Posição da foto*/
+    background-size: cover; /*vai cobrir toda a tela */
+    background-attachment: fixed; /*Vai fixar o fundo*/
+
+
+
+
+}
+
+.p {
+    color: #414141;
+}

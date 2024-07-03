@@ -1,0 +1,15 @@
+body {
+    background: rgb(221, 220, 220);
+}
+.p {
+    color: #414141;
+}
+
+.gbr {
+    border: 2px solid black; /*shortthand*/
+    border-radius: 175px;
+    width: 200px;
+    margin: 30px;
+    padding: 10px;    
+ 
+}
